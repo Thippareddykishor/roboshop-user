@@ -6,5 +6,3 @@ jobs:
         with: 
             component_name: user
             app_type: nodejs
-
-
